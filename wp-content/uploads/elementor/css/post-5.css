@@ -1,0 +1,24 @@
+.elementor-kit-5{--e-global-color-primary:#000000;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-8a6c042:#000000;--e-global-color-059f450:#FFFFFF;--e-global-color-c69eda9:#D12026;--e-global-color-80d4d08:#0C0C0C;--e-global-color-26de283:#C0BEBF;--e-global-color-4912cfa:#C0BEBF4D;--e-global-typography-primary-font-family:"Cera Pro Regular";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Cera Pro Medium";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Cera Pro Regular";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Cera Pro Bold";--e-global-typography-accent-font-weight:500;--e-global-typography-0bf50a7-font-family:"Cera Pro Bold";--e-global-typography-f1b2a66-font-family:"Cera Pro Medium";--e-global-typography-bbe7768-font-family:"Cera Pro Regular";--e-global-typography-1aa47a4-font-family:"Cera Pro Light";font-family:"Cera Pro Regular", Sans-serif;}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.elementor-kit-5 a{font-family:"Cera Pro Regular", Sans-serif;}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-family:"Cera Pro Medium", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Cera Pro Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/github-repo/wp-content/uploads/2024/11/Cera-Pro-Medium.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Cera Pro Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/github-repo/wp-content/uploads/2024/11/Cera-Pro-Bold.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Cera Pro Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/github-repo/wp-content/uploads/2024/11/Cera-Pro-Light.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */

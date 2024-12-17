@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'cera-pro';
+					src: url('/wp-content/uploads/useanyfont/4901Cera-Pro.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/4901Cera-Pro.woff') format('woff');
+						  font-display: auto;
+				}
+
+				.cera-pro{font-family: 'cera-pro' !important;}
+
+				.et_gf_cera-pro{background:none !important;font-family:cera-pro;text-indent:0 !important;font-size:25px;}
+
+		
